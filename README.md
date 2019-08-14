@@ -1,3 +1,2 @@
 # ACER-E5 Hackintosh 
-Skylake
-Mojave 10.14.6
+For E5-575G Skylake
