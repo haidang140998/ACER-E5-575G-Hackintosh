@@ -1,2 +1,2 @@
-# ACER-E5 Hackintosh 
+# ACER-E5 575G Hackintosh 
 For E5-575G Skylake
