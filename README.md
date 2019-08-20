@@ -8,3 +8,4 @@ Specs:
 - QCA9377 (Replaced DW1707)
 - Realtek Ethernet 
 - Webcam
+- HDMI work but error black screen built-in dislay
