@@ -9,3 +9,4 @@ Specs:
 - Realtek Ethernet 
 - Webcam
 - HDMI work but error black screen built-in dislay
+- Bluetooth can't turn off
